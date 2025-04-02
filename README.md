@@ -18,3 +18,7 @@ I chose to use the alpaca format for my dataset, since it is easy to use and acc
   }
 }
 ```
+
+<ul>
+  <li>Some scenarios for training from <a href="https://arxiv.org/html/2405.19616v1#S9">https://arxiv.org/html/2405.19616v1#S9</a></li>
+</ul>
