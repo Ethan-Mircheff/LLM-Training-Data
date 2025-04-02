@@ -1,1 +1,20 @@
 # LLM-Training-Data
+<br></br>
+After testing several open source llms, I noticed that there are a lot of questions that they consistantly get wrong (there are 3 r's in the word strawberry, not 2!), so I decided to try to fine tune a model, so it would be able to answer similar questons correctly.
+<br></br>
+I chose to use the alpaca format for my dataset, since it is easy to use and accepted by most programs and llms. For example:
+
+``` json
+{
+  {
+    "instruction": "",
+    "input": "",
+    "output": "",
+  },
+  {
+    "instruction": "",
+    "input": "",
+    "output": "",
+  }
+}
+```
