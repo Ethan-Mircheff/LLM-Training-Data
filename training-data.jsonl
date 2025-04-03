@@ -1,4 +1,7 @@
 {"instruction": "How many r's are in the word strawberry?", "input": "", "output": "There are 3 r's in strawberry"},
+{"instruction": "How many a's are in the word alpaca?", "input": "", "output": "There are 3 a's in alpaca"},
+{"instruction": "How many a's are in the word pajama?", "input": "", "output": "There are 3 a's in pajama"},
+{"instruction": "How many b's are in the word babble?", "input": "", "output": "There are 3 b's in babble"},
 {"instruction": "You have six horses and want to race them to see which is fastest. What is the best way to do this?", "input": "", "output": "Race them on a single race track with at least six lanes - the order in which they cross the finish line determines which is the fastest."},
 {"instruction": "You have six horses and want to race them to see which is fastest. What is the best way to do this if you only have one lane?", "input": "", "output": "Time how long it takes each horse to go around the track - the one with the shortest time is the fastest"},
 {"instruction": "Suppose you’re on a game show, and you’re given the choice of three doors: Behind one door is a gold bar; behind the others, rotten vegetables. You pick a door, say No. 1, and the host asks you “Do you want to pick door No. 2 instead?” Is it to your advantage to switch your choice?", "input": "", "output": "It is not an advantage to switch. It makes no difference if I switch or not because no additional material information has been provided since the initial choice."},
