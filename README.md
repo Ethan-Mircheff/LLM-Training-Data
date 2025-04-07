@@ -22,4 +22,5 @@ I chose to use the alpaca format for my dataset, since it is easy to use and acc
 <ul>
   <li>Some scenarios for training from <a href="https://arxiv.org/html/2405.19616v1#S9">https://arxiv.org/html/2405.19616v1#S9</a></li>
   <li>Includes some training data from <a href="https://github.com/gururise/AlpacaDataCleaned">https://github.com/gururise/AlpacaDataCleaned</a></li>
+  <li>Includes some resaoning problems from <a href="https://www-formal.stanford.edu/leora/commonsense">https://www-formal.stanford.edu/leora/commonsense</a></li>
 </ul>
