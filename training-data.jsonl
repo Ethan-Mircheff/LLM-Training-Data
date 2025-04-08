@@ -130,4 +130,32 @@
 {"instruction": "Is it ever okay to lie?", "input": "", "output": "It can always depend on the situation."},
 {"instruction": "Tell me your opinion, but stay completely neutral.", "input": "", "output": "It would be impossible for me to do both."},
 {"instruction": "I just got promoted!!", "input": "", "output": "Congradulations!"},
+{"instruction": "A rectangular garden is 12 meters long and 9 meters wide. What is the area?", "input": "", "output": "The area is 108 square meters."}
+{"instruction": "If a cube has a volume of 64 cubic inches, what is the length of one side?", "input": "", "output": "The side length is 4 inches."}
+{"instruction": "A car travels 180 miles in 3 hours. What is its average speed?", "input": "", "output": "The average speed is 60 miles per hour."}
+{"instruction": "You face north, turn 90 degrees to the right, then turn 270 degrees to the left. Which direction are you facing?", "input": "", "output": "You are facing South."}
+{"instruction": "There are 6 apples and 4 oranges in a basket. If you randomly pick one fruit, what is the probability it’s an apple?", "input": "", "output": "The probability is 3/5, or 60 percent."}
+{"instruction": "What number comes next in the sequence: 2, 4, 8, 16, ...?", "input": "", "output": "The next number is 32."}
+{"instruction": "If the sum of three consecutive integers is 72, what are the numbers?", "input": "", "output": "The numbers are 23, 24, and 25."}
+{"instruction": "A circle has a radius of 7 cm. What is its circumference (use π ≈ 3.14)?", "input": "", "output": "The circumference is 43.96 cm."}
+{"instruction": "A room is shaped like an L. One section is 6x4 meters and the other is 3x2 meters. What is the total area?", "input": "", "output": "The total area is 30 square meters."}
+{"instruction": "You have 7 red marbles, 5 blue marbles, and 8 green marbles. If you pick one at random, what is the probability it’s green?", "input": "", "output": "The probability is 2/5, or 40 percent."}
+{"instruction": "How many sides does a hexagon have?", "input": "", "output": "A hexagon has 6 sides."}
+{"instruction": "What is the sum of the interior angles of a triangle?", "input": "", "output": "The sum is 180 degrees."}
+{"instruction": "If a triangle has one angle of 90° and another of 45°, what is the third angle?", "input": "", "output": "The third angle is 45°."}
+{"instruction": "A train leaves a station at 9:00 AM and travels at 50 miles per hour. If it travels for 3 hours, how far has it gone?", "input": "", "output": "Assuming a constant speed, the train has traveled 150 miles."}
+{"instruction": "What is the next number in the sequence: 1, 4, 9, 16, ...?", "input": "", "output": "The next number is 25."}
+{"instruction": "What type of pattern is the sequence: 1, 4, 9, 16, ...?", "input": "", "output": "It is a sequence of perfect squares."}
+{"instruction": "If you buy 3 books for $7 each, what is the total cost?", "input": "", "output": "The total cost is $21."}
+{"instruction": "What is the volume of a cylinder with a radius of 3 cm and a height of 10 cm? (Use π ≈ 3.14)", "input": "", "output": "The volume is 282.6 cubic centimeters."}
+{"instruction": "A triangle has sides of 5 cm, 12 cm, and 13 cm. Is it a right triangle?", "input": "", "output": "Yes, it’s a right triangle."}
+{"instruction": "If a number is divisible by 3 and 5, which other number must it also be divisible by?", "input": "", "output": "It must also be divisible by 15."}
+{"instruction": "A pyramid has a square base with side length 4 meters and a height of 6 meters. What is its volume?", "input": "", "output": "The volume is 32 cubic meters."}
+{"instruction": "What is the perimeter of a rectangle with a length of 8 cm and a width of 3 cm?", "input": "", "output": "The perimeter is 22 cm."}
+{"instruction": "If two angles of a triangle are 40° and 75°, what is the third angle?", "input": "", "output": "The third angle is 65°."}
+{"instruction": "How many degrees are in a right angle?", "input": "", "output": "A right angle has 90 degrees."}
+{"instruction": "A square has a side length of 10 cm. What is its area?", "input": "", "output": "The area is 100 square centimeters."}
+{"instruction": "How many faces does a cube have?", "input": "", "output": "A cube has 6 faces."}
+{"instruction": "If you draw a line segment between two points on a plane, what do you call the shortest path between them?", "input": "", "output": "The shortest path is called a straight line."}
+{"instruction": "A clock shows the time 3:15. What is the angle between the hour and minute hands?", "input": "", "output": "The angle is 7.5 degrees."}
 {"instruction": "", "input": "", "output": ""},
