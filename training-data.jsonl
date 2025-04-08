@@ -144,8 +144,6 @@
 {"instruction": "What is the sum of the interior angles of a triangle?", "input": "", "output": "The sum is 180 degrees."}
 {"instruction": "If a triangle has one angle of 90° and another of 45°, what is the third angle?", "input": "", "output": "The third angle is 45°."}
 {"instruction": "A train leaves a station at 9:00 AM and travels at 50 miles per hour. If it travels for 3 hours, how far has it gone?", "input": "", "output": "Assuming a constant speed, the train has traveled 150 miles."}
-{"instruction": "What is the next number in the sequence: 1, 4, 9, 16, ...?", "input": "", "output": "The next number is 25."}
-{"instruction": "What type of pattern is the sequence: 1, 4, 9, 16, ...?", "input": "", "output": "It is a sequence of perfect squares."}
 {"instruction": "If you buy 3 books for $7 each, what is the total cost?", "input": "", "output": "The total cost is $21."}
 {"instruction": "What is the volume of a cylinder with a radius of 3 cm and a height of 10 cm? (Use π ≈ 3.14)", "input": "", "output": "The volume is 282.6 cubic centimeters."}
 {"instruction": "A triangle has sides of 5 cm, 12 cm, and 13 cm. Is it a right triangle?", "input": "", "output": "Yes, it’s a right triangle."}
@@ -158,4 +156,76 @@
 {"instruction": "How many faces does a cube have?", "input": "", "output": "A cube has 6 faces."}
 {"instruction": "If you draw a line segment between two points on a plane, what do you call the shortest path between them?", "input": "", "output": "The shortest path is called a straight line."}
 {"instruction": "A clock shows the time 3:15. What is the angle between the hour and minute hands?", "input": "", "output": "The angle is 7.5 degrees."}
+{"instruction": "You face east, turn 90 degrees to the left, then 180 degrees to the right. Which direction are you facing?", "input": "", "output": "You are facing south."}
+{"instruction": "You face south, turn 180 degrees, then turn 90 degrees to the right. Which direction are you facing?", "input": "", "output": "You are facing east."}
+{"instruction": "You face west and turn 270 degrees to the right. Which direction are you facing?", "input": "", "output": "You are facing south."}
+{"instruction": "You face north and make a full 360-degree turn. What direction are you facing now?", "input": "", "output": "You are facing north."}
+{"instruction": "You face east, turn 90 degrees right, then 90 degrees left. Which direction are you facing?", "input": "", "output": "You are facing east."}
+{"instruction": "You face south, turn 270 degrees to the left. Which direction are you facing?", "input": "", "output": "You are facing west."}
+{"instruction": "You face west, turn 90 degrees to the left, then 90 degrees to the right. Which direction are you facing?", "input": "", "output": "You are facing west."}
+{"instruction": "You face north, turn 90 degrees left, then 90 degrees right, then 180 degrees. Which direction are you facing?", "input": "", "output": "You are facing south."}
+{"instruction": "You face east, turn 180 degrees, then turn 90 degrees left. Which direction are you facing?", "input": "", "output": "You are facing south."}
+{"instruction": "You face south, turn 90 degrees left, then turn 270 degrees right. Which direction are you facing?", "input": "", "output": "You are facing north."}
+{"instruction": "A clock shows the time 2:00. What is the angle between the hour and minute hands?", "input": "", "output": "The angle is 60 degrees."}
+{"instruction": "A clock shows the time 6:00. What is the angle between the hour and minute hands?", "input": "", "output": "The angle is 180 degrees."}
+{"instruction": "A clock shows the time 12:30. What is the angle between the hour and minute hands?", "input": "", "output": "The angle is 165 degrees."}
+{"instruction": "A clock shows the time 9:00. What is the angle between the hour and minute hands?", "input": "", "output": "The angle is 90 degrees."}
+{"instruction": "A clock shows the time 4:20. What is the angle between the hour and minute hands?", "input": "", "output": "The angle is 10 degrees."}
+{"instruction": "A clock shows the time 1:30. What is the angle between the hour and minute hands?", "input": "", "output": "The angle is 135 degrees."}
+{"instruction": "A clock shows the time 5:00. What is the angle between the hour and minute hands?", "input": "", "output": "The angle is 150 degrees."}
+{"instruction": "A clock shows the time 8:15. What is the angle between the hour and minute hands?", "input": "", "output": "The angle is 157.5 degrees."}
+{"instruction": "A clock shows the time 10:30. What is the angle between the hour and minute hands?", "input": "", "output": "The angle is 135 degrees."}
+{"instruction": "A clock shows the time 7:45. What is the angle between the hour and minute hands?", "input": "", "output": "The angle is 37.5 degrees."}
+{"instruction": "What is the next number in the sequence: 2, 4, 8, 16, ?", "input": "", "output": "The next number is 32."}
+{"instruction": "What is the next number in the sequence: 5, 10, 15, 20, ?", "input": "", "output": "The next number is 25."}
+{"instruction": "What is the next number in the sequence: 1, 4, 9, 16, ?", "input": "", "output": "The next number is 25."}
+{"instruction": "What is the next number in the sequence: 3, 9, 27, 81, ?", "input": "", "output": "The next number is 243."}
+{"instruction": "What is the next number in the sequence: 2, 3, 5, 8, 12, ?", "input": "", "output": "The next number is 17."}
+{"instruction": "What is the next number in the sequence: 1, 1, 2, 3, 5, 8, ?", "input": "", "output": "The next number is 13."}
+{"instruction": "What is the next number in the sequence: 10, 20, 40, 80, ?", "input": "", "output": "The next number is 160."}
+{"instruction": "What is the next number in the sequence: 100, 90, 80, 70, ?", "input": "", "output": "The next number is 60."}
+{"instruction": "What is the next number in the sequence: 3, 6, 12, 24, ?", "input": "", "output": "The next number is 48."}
+{"instruction": "What is the next number in the sequence: 2, 3, 5, 7, 11, ?", "input": "", "output": "The next number is 13."}
+{"instruction": "What type of pattern does the following sequence follow: 2, 3, 5, 7, 11, ?", "input": "", "output": "The sequence follows a prime number pattern."}
+{"instruction": "What type of pattern does the following sequence follow: 1, 4, 9, 16, 25, ?", "input": "", "output": "The sequence follows a square number pattern."}
+{"instruction": "What type of pattern does the following sequence follow: 2, 4, 8, 16, 32, ?", "input": "", "output": "The sequence follows a geometric progression."}
+{"instruction": "What type of pattern does the following sequence follow: 1, 1, 2, 3, 5, 8, 13, ?", "input": "", "output": "The sequence follows the Fibonacci sequence pattern."}
+{"instruction": "What type of pattern does the following sequence follow: 10, 20, 30, 40, 50, ?", "input": "", "output": "The sequence follows an arithmetic progression pattern."}
+{"instruction": "What type of pattern does the following sequence follow: 100, 90, 80, 70, 60, ?", "input": "", "output": "The sequence follows an arithmetic progression pattern."}
+{"instruction": "What type of pattern does the following sequence follow: 3, 6, 12, 24, 48, ?", "input": "", "output": "The sequence follows a geometric progression."}
+{"instruction": "What type of pattern does the following sequence follow: 3, 6, 9, 12, 15, ?", "input": "", "output": "The sequence follows an arithmetic progression pattern."}
+{"instruction": "What type of pattern does the following sequence follow: 5, 10, 20, 40, 80, ?", "input": "", "output": "The sequence follows a geometric progression."}
+{"instruction": "What type of pattern does the following sequence follow: 1, 2, 6, 24, 120, ?", "input": "", "output": "The sequence follows a factorial pattern."}
+{"instruction": "What is (125 + 125) + 2?", "input": "", "output": "The answer is 252."}
+{"instruction": "What is (50 + 50) + 10?", "input": "", "output": "The answer is 110."}
+{"instruction": "What is (10 + 20) + 5?", "input": "", "output": "The answer is 35."}
+{"instruction": "What is (15 + 5) + 10?", "input": "", "output": "The answer is 30."}
+{"instruction": "What is (241 + 241) + 1?", "input": "", "output": "The answer is 483."}
+{"instruction": "What is (6 + 7) + 8?", "input": "", "output": "The answer is 21."}
+{"instruction": "What is (3 + 3) + 4?", "input": "", "output": "The answer is 10."}
+{"instruction": "What is (100 + 50) + 25?", "input": "", "output": "The answer is 175."}
+{"instruction": "What is (9 + 9) + 3?", "input": "", "output": "The answer is 21."}
+{"instruction": "What is (50 + 100) + 25?", "input": "", "output": "The answer is 175."}
+{"instruction": "What is (8 + 8) + 2?", "input": "", "output": "The answer is 18."}
+{"instruction": "What is (200 + 300) + 50?", "input": "", "output": "The answer is 550."}
+{"instruction": "What is (10 + 5) + 12?", "input": "", "output": "The answer is 27."}
+{"instruction": "What is (30 + 30) + 20?", "input": "", "output": "The answer is 80."}
+{"instruction": "What is (4 + 5) + 6?", "input": "", "output": "The answer is 15."}
+{"instruction": "What is 1000 + 2000 + 3000?", "input": "", "output": "The answer is 6000."}
+{"instruction": "What is (10 + 5) × 2?", "input": "", "output": "The answer is 30."}
+{"instruction": "What is (4 + 6) × 5?", "input": "", "output": "The answer is 50."}
+{"instruction": "What is 8 + 6 - 4?", "input": "", "output": "The answer is 10."}
+{"instruction": "What is 8 × 5 - 4?", "input": "", "output": "The answer is 36."}
+{"instruction": "What is 10 ÷ 2 + 3?", "input": "", "output": "The answer is 8."}
+{"instruction": "What is 5 × 6 - 4?", "input": "", "output": "The answer is 26."}
+{"instruction": "What is 1/4 + 1/4?", "input": "", "output": "The answer is 1/2."}
+{"instruction": "What is 1/2 ÷ 1/4?", "input": "", "output": "The answer is 2."}
+{"instruction": "What is (4 + (3 + 2)) × 2?", "input": "", "output": "The answer is 18."}
+{"instruction": "What is 3.5 + 2.5?", "input": "", "output": "The answer is 6."}
+{"instruction": "What is 15 ÷ 4?", "input": "", "output": "The answer is 3 with a remainder of 3."}
+{"instruction": "What is (-3)²?", "input": "", "output": "The answer is 9."}
+{"instruction": "What is 3 - (-5)?", "input": "", "output": "The answer is 8."}
+{"instruction": "What is 20 ÷ 4 × 2?", "input": "", "output": "The answer is 10."}
+{"instruction": "What is 5 - (-3)?", "input": "", "output": "The answer is 8."}
+{"instruction": "What is -7 - (-4)?", "input": "", "output": "The answer is -3."}
 {"instruction": "", "input": "", "output": ""},
