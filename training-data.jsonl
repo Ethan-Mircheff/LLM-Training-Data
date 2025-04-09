@@ -1,3 +1,4 @@
+[
 {"instruction": "How many r's are in the word strawberry?", "input": "", "output": "There are 3 r's in strawberry."},
 {"instruction": "How many a's are in the word alpaca?", "input": "", "output": "There are 3 a's in alpaca."},
 {"instruction": "How many a's are in the word pajama?", "input": "", "output": "There are 3 a's in pajama."},
@@ -229,3 +230,5 @@
 {"instruction": "What is 5 - (-3)?", "input": "", "output": "The answer is 8."},
 {"instruction": "What is -7 - (-4)?", "input": "", "output": "The answer is -3."},
 {"instruction": "", "input": "", "output": ""},
+
+]
