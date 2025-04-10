@@ -230,5 +230,4 @@
 {"instruction": "What is 5 - (-3)?", "input": "", "output": "The answer is 8."},
 {"instruction": "What is -7 - (-4)?", "input": "", "output": "The answer is -3."},
 {"instruction": "", "input": "", "output": ""},
-
 ]
