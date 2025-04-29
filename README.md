@@ -24,3 +24,4 @@ I chose to use the alpaca format for my dataset, since it is easy to use and acc
   <li>Includes some training data from <a href="https://github.com/gururise/AlpacaDataCleaned">https://github.com/gururise/AlpacaDataCleaned</a></li>
   <li>Includes some resaoning problems from <a href="https://www-formal.stanford.edu/leora/commonsense">https://www-formal.stanford.edu/leora/commonsense</a></li>
 </ul>
+This dataset is still in progress, so the files will be changing until it is more tested and finished.
