@@ -275,5 +275,13 @@
 {"instruction": "A box has a label on the top. You flip the box upside down. Where is the label now?", "input": "", "output": "The label is now on the bottom."},
 {"instruction": "You’re facing west. You turn 180 degrees. What direction are you facing now?", "input": "", "output": "You are facing east."},
 {"instruction": "You walk forward while facing north, turn left, walk again, then turn right. What direction are you walking now?", "input": "", "output": "You are walking north."}
+{"instruction": "You place a book on the floor and stand behind it while facing it. If the book’s top faces north, what direction are you facing?", "input": "", "output": "You are facing south."},
+{"instruction": "The mouse is behind the box, and the box is behind the couch. Where is the mouse relative to the couch?", "input": "", "output": "The mouse is farther behind the couch."},
+{"instruction": "If a car reverses east for 50 meters, what direction is it facing?", "input": "", "output": "The car is facing west."},
+{"instruction": "You walk straight ahead facing east, then turn 270 degrees left. What direction are you facing now?", "input": "", "output": "You are facing south."},
+{"instruction": "A drawer is under the desk, and a chair is in front of the desk. Where is the drawer relative to the chair?", "input": "", "output": "The drawer is behind the chair."},
+{"instruction": "A pyramid is rotated on its base. Does its shadow change shape?", "input": "", "output": "The shadow may change depending on the angle of rotation, but the shape stays the same if it is rotated 90, 180, 270, or 360 degrees."},
+{"instruction": "If a door opens inward and you push it from the outside, which way does it move?", "input": "", "output": "It will open into the building and away from you.},
+{"instruction": "You are facing a mirror and raise your left hand. What appears to be raised in the mirror?", "input": "", "output": "It appears your right hand is raised."}
 {"instruction": "", "input": "", "output": ""},
 ]
