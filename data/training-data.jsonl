@@ -234,5 +234,36 @@
 {"instruction": "If today is Wednesday and your flight is in 3 days, what day do you leave?", "input": "", "output": "You leave on Saturday."}
 {"instruction": "Sarah is taller than Jane. Jane is taller than Lisa. Who is the shortest?", "input": "", "output": "Lisa is the shortest."}
 {"instruction": "You have a flashlight, a rope, and a heavy box. What item helps you see in the dark?", "input": "", "output": "The flashlight helps you see in the dark."}
+{"instruction": "You face north, turn 90 degrees to the right, then 90 degrees to the left. Which direction are you facing?", "input": "", "output": "You are facing north."},
+{"instruction": "You walk 10 steps forward while facing east, turn around, and walk 5 steps. Which direction are you now facing?", "input": "", "output": "You are facing west."},
+{"instruction": "A cube is resting on a table. If you rotate it 180 degrees around its vertical axis, does its shape change?", "input": "", "output": "No, the shape of the cube stays the same."},
+{"instruction": "The pencil is to the left of the notebook, and the notebook is to the left of the book. Where is the pencil in relation to the book?", "input": "", "output": "The pencil is to the left of the book."},
+{"instruction": "You are in a room facing south. You make three right turns, walking straight each time. Which direction are you now facing?", "input": "", "output": "You are facing east."},
+{"instruction": "A sphere is turned 90 degrees. What changes about it?", "input": "", "output": "Nothing changes; a sphere looks the same from all sides."},
+{"instruction": "If the lamp is to the right of the couch, and the table is to the left of the couch, where is the table in relation to the lamp?", "input": "", "output": "The table is to the left of the lamp."},
+{"instruction": "You walk forward while facing north, then turn 270 degrees to the right. Which direction are you facing now?", "input": "", "output": "You are facing west."},
+{"instruction": "A pyramid is rotated 90 degrees on its base. Does the shape look different?", "input": "", "output": "No, each face of a pyramid looks the same."},
+{"instruction": "You are looking at a box from above. There’s a red dot on the top face. You flip the box forward. Where is the red dot now?", "input": "", "output": "The red dot is now on the back face of the box."}
+{"instruction": "You’re holding a map and facing north. The grocery store is marked directly below your current location. Which direction should you walk?", "input": "", "output": "You should walk south."},
+{"instruction": "A cone is placed on its base and then flipped upside down. What changes about its orientation?", "input": "", "output": "Its orientation changes to upside down."},
+{"instruction": "If a cat is sitting by a table and the table is between the cat and the window, where is the cat in relation to the window?", "input": "", "output": "The cat is farther from the window than the table is."},
+{"instruction": "You’re in a maze and turn right three times from your original north-facing direction. Which direction are you facing?", "input": "", "output": "You are facing west."},
+{"instruction": "The chair is in front of the desk, and the backpack is behind the chair. Where is the backpack relative to the desk?", "input": "", "output": "The backpack is farther from the desk than the chair is."},
+{"instruction": "You walk forward facing east, turn left, then go forward again. What direction are you walking now?", "input": "", "output": "You are walking north."},
+{"instruction": "A book is on the second shelf, directly above a lamp on the first shelf. If the book falls, where does it land?", "input": "", "output": "It might land near the lamp, but it is likely it will miss and land on the floor."},
+{"instruction": "You walk five blocks south, three blocks east, and then four blocks north. Which general direction are you from where you started?", "input": "", "output": "You are southeast of your starting point."},
+{"instruction": "A clock is hanging on a wall. If you rotate it 180 degrees, where is the 12 now?", "input": "", "output": "The 12 is now at the bottom, where the 6 is normally."},
+{"instruction": "A mug is to the right of a plate. If both are rotated together 90 degrees clockwise, where is the mug now?", "input": "", "output": "The mug is now below the plate."}
+{"instruction": "You're facing west. You turn 90 degrees to the left and then 180 degrees to the right. Which direction are you facing?", "input": "", "output": "You are facing north."},
+{"instruction": "You’re looking at a mirror. You raise your right hand. Which hand appears raised in the mirror?", "input": "", "output": "It appears as your left hand in the mirror."},
+{"instruction": "The window is on the north wall. The door is directly opposite the window. What wall is the door on?", "input": "", "output": "The door is on the south wall."},
+{"instruction": "A ball rolls off the front edge of a table. Where will it fall relative to the table?", "input": "", "output": "It will fall in front of the table."},
+{"instruction": "If you are inside on the second floor and drop a key straight down, where does it go?", "input": "", "output": "It will land on the floor."},
+{"instruction": "A triangle is rotated 120 degrees clockwise. Does its shape change?", "input": "", "output": "No, the shape stays the same."},
+{"instruction": "A triangle is rotated 120 degrees clockwise. Does its shape change?", "input": "", "output": "No, the shape stays the same."},
+{"instruction": "What is a good mnemonic for remembering the order of the direction on a compass?", "input": "", "output": "A common mnemonic for the directions on a compass is Never Eat Soggy Waffles."},
+{"instruction": "You face east and make two left turns. Which direction are you now facing?", "input": "", "output": "You are facing west."},
+{"instruction": "A clock is rotated 90 degrees clockwise. Where does the 3 end up?", "input": "", "output": "The 3 ends up on the bottom, at the 6 o'clock position."},
+{"instruction": "You’re standing in the middle of a room. The window is to your right, and the door is behind you. Which direction are you facing if the window is east?", "input": "", "output": "You are facing north."}
 {"instruction": "", "input": "", "output": ""},
 ]
