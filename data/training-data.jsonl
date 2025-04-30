@@ -265,5 +265,15 @@
 {"instruction": "You face east and make two left turns. Which direction are you now facing?", "input": "", "output": "You are facing west."},
 {"instruction": "A clock is rotated 90 degrees clockwise. Where does the 3 end up?", "input": "", "output": "The 3 ends up on the bottom, at the 6 o'clock position."},
 {"instruction": "You’re standing in the middle of a room. The window is to your right, and the door is behind you. Which direction are you facing if the window is east?", "input": "", "output": "You are facing north."}
+{"instruction": "A chair is in front of a table, and a rug is under the table. Where is the rug relative to the chair?", "input": "", "output": "The rug is behind the chair."},
+{"instruction": "You’re in a car facing north. You take a left turn and drive two blocks, then turn right. What direction are you now driving?", "input": "", "output": "You are driving north."},
+{"instruction": "You’re holding a cube. You rotate it clockwise 90 degrees around its vertical axis. What face is now in front?", "input": "", "output": "The right face is now in front."},
+{"instruction": "The cup is to the left of the spoon, and the spoon is to the left of the plate. Where is the cup relative to the plate?", "input": "", "output": "The cup is farthest to the left."},
+{"instruction": "You walk four steps east and three steps south. What direction are you from your starting point?", "input": "", "output": "You are southeast of your starting point."},
+{"instruction": "A television is mounted on a north-facing wall. You are sitting directly opposite it. What direction are you facing?", "input": "", "output": "You are facing north."},
+{"instruction": "You face south, turn 90 degrees to the right, then 270 degrees to the left. Which direction are you facing?", "input": "", "output": "You are facing north."},
+{"instruction": "A box has a label on the top. You flip the box upside down. Where is the label now?", "input": "", "output": "The label is now on the bottom."},
+{"instruction": "You’re facing west. You turn 180 degrees. What direction are you facing now?", "input": "", "output": "You are facing east."},
+{"instruction": "You walk forward while facing north, turn left, walk again, then turn right. What direction are you walking now?", "input": "", "output": "You are walking north."}
 {"instruction": "", "input": "", "output": ""},
 ]
