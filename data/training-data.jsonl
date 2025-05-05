@@ -487,5 +487,16 @@
 {"instruction": "What belongs to you but other people use it more than you do?", "input": "", "output": "Your name."},
 {"instruction": "What has four fingers and a thumb but is not alive?", "input": "", "output": "A glove."},
 {"instruction": "What is always running but never moves?", "input": "", "output": "A clock."},
+{"instruction": "A square has a side length of 7 cm. What is its area?", "input": "", "output": "The area is 49 square centimeters."}
+{"instruction": "A square has a side length of 12 cm. What is its area?", "input": "", "output": "The area is 144 square centimeters."}
+{"instruction": "A rectangle has a length of 8 cm and a width of 3 cm. What is its perimeter?", "input": "", "output": "The perimeter is 22 cm."}
+{"instruction": "A rectangle has a length of 5 cm and a width of 9 cm. What is its perimeter?", "input": "", "output": "The perimeter is 28 cm."}
+{"instruction": "A triangle has sides of 3 cm, 4 cm, and 5 cm. What is its perimeter?", "input": "", "output": "The perimeter is 12 cm."}
+{"instruction": "A triangle has sides of 6 cm, 7 cm, and 8 cm. What is its perimeter?", "input": "", "output": "The perimeter is 21 cm."}
+{"instruction": "A circle has a radius of 5 cm. What is its circumference (use π ≈ 3.14)?", "input": "", "output": "The circumference is 31.4 cm."}
+{"instruction": "A circle has a radius of 9 cm. What is its circumference (use π ≈ 3.14)?", "input": "", "output": "The circumference is 56.52 cm."}
+{"instruction": "A cylinder has a radius of 4 cm and a height of 10 cm. What is its volume (use π ≈ 3.14)?", "input": "", "output": "The volume is 502.4 cubic centimeters."}
+{"instruction": "A cylinder has a radius of 7 cm and a height of 3 cm. What is its volume (use π ≈ 3.14)?", "input": "", "output": "The volume is 461.58 cubic centimeters."}
+{"instruction": "A cube has a side length of 5 cm. What is its volume?", "input": "", "output": "The volume is 125 cubic centimeters."}
 {"instruction": "", "input": "", "output": ""},
 ]
