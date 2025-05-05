@@ -283,5 +283,31 @@
 {"instruction": "A pyramid is rotated on its base. Does its shadow change shape?", "input": "", "output": "The shadow may change depending on the angle of rotation, but the shape stays the same if it is rotated 90, 180, 270, or 360 degrees."},
 {"instruction": "If a door opens inward and you push it from the outside, which way does it move?", "input": "", "output": "It will open into the building and away from you.},
 {"instruction": "You are facing a mirror and raise your left hand. What appears to be raised in the mirror?", "input": "", "output": "It appears your right hand is raised."}
+{"instruction": "You are in a car facing north and turn left at the intersection. What direction are you now facing?", "input": "", "output": "You are facing west."},
+{"instruction": "You’re in a square room. There is a chair in each corner. If you walk diagonally across the room, how many chairs do you pass?", "input": "", "output": "You pass two chairs."},
+{"instruction": "You turn around from facing west and then take a 90-degree left turn. Which direction are you now facing?", "input": "", "output": "You are facing north."},
+{"instruction": "You hold a cube and rotate it 90 degrees around its horizontal axis. Which face now faces upward?", "input": "", "output": "A previously vertical face now faces upward."},
+{"instruction": "If the fridge is to the right of the sink, and the oven is to the left of the sink, where is the fridge relative to the oven?", "input": "", "output": "The fridge is to the right, on the opposite side of the sink from the oven."},
+{"instruction": "You walk 3 steps north, then 4 steps east. How far are you from where you started?", "input": "", "output": "You are 5 steps away diagonally."},
+{"instruction": "You place a transparent cube over a dot on paper. From above, you can still see the dot. Why?", "input": "", "output": "Because the cube is transparent."},
+{"instruction": "If the shadow of a pole points north at noon, what direction is the sun?", "input": "", "output": "The sun is to the south."},
+{"instruction": "You're on a boat facing the shore. You turn 180 degrees. What are you facing now?", "input": "", "output": "You are facing away from the shore."},
+{"instruction": "You enter a tunnel going west and turn left inside. Which direction are you facing now?", "input": "", "output": "You are facing south."}
+{"instruction": "You’re flying a drone north. You rotate it 90 degrees to the right. Which way is the drone facing now?", "input": "", "output": "The drone is facing east."},
+{"instruction": "A person walks 10 meters south, 10 meters east, and 10 meters north. Where are they relative to their starting point?", "input": "", "output": "They are 10 meters east of the starting point."},
+{"instruction": "You are inside a cube and paint the bottom face red. How many faces are not painted?", "input": "", "output": "Five faces are not painted."},
+{"instruction": "A book is lying flat with its spine on the left. You rotate it 180 degrees. Where is the spine now?", "input": "", "output": "The spine is now on the right."},
+{"instruction": "You walk west, turn right, then walk straight. What direction are you walking now?", "input": "", "output": "You are walking north."},
+{"instruction": "A cube has one face painted blue. You roll it once forward. How many painted faces are visible now?", "input": "", "output": "There is about an 83% chance of seeing a painted side."},
+{"instruction": "You're in a maze and turn left, then left again. What has happened to your direction?", "input": "", "output": "You have turned 180 degrees and are facing the opposite direction."},
+{"instruction": "You stand on the north side of a tree. The sun is setting behind you. What direction is the sun?", "input": "", "output": "The sun would be setting in the south, but that is impossible since the sun always sets in the west."}
+{"instruction": "You're looking east and make a 270-degree turn clockwise. Which direction are you now facing?", "input": "", "output": "You are now facing north."},
+{"instruction": "A square is rotated 180 degrees. Does its appearance change?", "input": "", "output": "No, it looks exactly the same."},
+{"instruction": "You place a ball on top of a cube. Which direction would the ball roll if the cube is tilted forward?", "input": "", "output": "The ball would roll forward."},
+{"instruction": "You're facing west. You turn 90 degrees counterclockwise. Which direction are you facing?", "input": "", "output": "You are facing south."},
+{"instruction": "You're inside a room with four walls and no windows. You hear a sound from your right. Which direction is it coming from if you are facing north?", "input": "", "output": "The sound is coming from the east."},
+{"instruction": "You rotate a triangle 120 degrees clockwise. Does its shape or size change?", "input": "", "output": "No, only the orientation changes."},
+{"instruction": "A map shows north at the top. You turn the map upside down. What direction is now at the top?", "input": "", "output": "South is now at the top."},
+{"instruction": "You're watching a spinning top from above. It rotates clockwise. From below, which direction does it appear to spin?", "input": "", "output": "It appears to spin counterclockwise."}
 {"instruction": "", "input": "", "output": ""},
 ]
