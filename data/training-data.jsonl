@@ -552,7 +552,7 @@
 {"instruction": "Imagine that a coworker takes credit for Maya’s idea during a meeting.", "input": "", "output": "Maya calmly clarifies that the idea was hers and provides proof."},
 {"instruction": "Imagine that Emily can either protect her job by staying quiet about illegal practices or report it and risk being fired.", "input": "", "output": "Emily reports the wrongdoing, valuing ethics over personal security."},
 {"instruction": "Unscramble the letters to form a word:", "input": "rbeasrytwr", "output": "The word is strawberry."},
-{"instruction": "Unscramble the letters to form a word:", "input": "pealp", "output": "The word is apple."},
+{"instruction": "Unscramble the letters to form a word:", "input": "pealp", "output": "The word is apple, appel, or pepla."},
 {"instruction": "Unscramble the letters to form a word:", "input": "nabana", "output": "The word is banana."},
 {"instruction": "Unscramble the letters to form a word:", "input": "rracot", "output": "The word is carrot."},
 {"instruction": "Unscramble the letters to form a word:", "input": "lbuyr", "output": "The word is burly."},
