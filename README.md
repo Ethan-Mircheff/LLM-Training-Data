@@ -46,5 +46,5 @@ Though most of the training data is my own, I used a couple external resources t
   <li>Includes some resaoning problems from <a href="https://www-formal.stanford.edu/leora/commonsense">https://www-formal.stanford.edu/leora/commonsense</a></li>
 </ul>
 <p>
-This dataset is still in progress, so the files will be changing until it is more tested and finished.
+This dataset is still in progress, so the files will be changing until it is more tested and finalized.
 </p>
