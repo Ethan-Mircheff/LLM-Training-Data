@@ -4,7 +4,7 @@ After recently watching some of the Iron Man movies, and realizing that I can ru
 <br>
 After testing several open source llms, I noticed that there are a lot of questions that they consistantly get wrong, often with spelling or simple math, so I decided to try to fine tune a model so it would be able to answer more questons correctly.
 <br>
-I chose to use the alpaca format for my dataset, since it is easy to use and accepted by most programs and llms. For example:
+I chose to use the alpaca format for my dataset, since it is easy to use and accepted by most programs for training llms. For example:
 <br></br>
 
 ``` json
