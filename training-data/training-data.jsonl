@@ -1004,6 +1004,7 @@
 {"instruction": "A circle has a radius of 17 cm. What is its circumference (use π ≈ 3.14)?", "input": "", "output": "The circumference is 106.76 cm."},
 {"instruction": "A cylinder has a radius of 6 cm and a height of 10 cm. What is its volume (use π ≈ 3.14)?", "input": "", "output": "The volume is 1130.4 cubic centimeters."},
 {"instruction": "A cube has a side length of 15 cm. What is its volume?", "input": "", "output": "The volume is 3375 cubic centimeters."}
+{"instruction": "Is the following scenario morally acceptable?", "input": "Imagine that a stranger tells Hank to spill several gallons of bleach on his neighbor's front lawn without his neighbor's permission. If Hank refuses, the stranger will shoot and kill Hank's son. Hank carries out the stranger's request.", "output": "Yes, because Hank is trying to save his son, what he did was morally acceptable."},
 {"instruction": "Is the following scenario morally acceptable?", "input": "", "output": ""},
 {"instruction": "", "input": "", "output": ""},
 ]
