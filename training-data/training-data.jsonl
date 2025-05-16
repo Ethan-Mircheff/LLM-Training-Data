@@ -1004,5 +1004,6 @@
 {"instruction": "A circle has a radius of 17 cm. What is its circumference (use π ≈ 3.14)?", "input": "", "output": "The circumference is 106.76 cm."},
 {"instruction": "A cylinder has a radius of 6 cm and a height of 10 cm. What is its volume (use π ≈ 3.14)?", "input": "", "output": "The volume is 1130.4 cubic centimeters."},
 {"instruction": "A cube has a side length of 15 cm. What is its volume?", "input": "", "output": "The volume is 3375 cubic centimeters."}
+{"instruction": "Is the following scenario morally acceptable?", "input": "", "output": ""},
 {"instruction": "", "input": "", "output": ""},
 ]
