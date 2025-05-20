@@ -44,7 +44,7 @@ Though most of the training data is my own, I used a couple external resources t
   <li>Some scenarios for training from <a href="https://arxiv.org/html/2405.19616v1#S9">https://arxiv.org/html/2405.19616v1#S9</a></li>
   <li>Includes some training data from <a href="https://github.com/gururise/AlpacaDataCleaned">https://github.com/gururise/AlpacaDataCleaned</a></li>
   <li>Includes some resaoning problems from <a href="https://www-formal.stanford.edu/leora/commonsense">https://www-formal.stanford.edu/leora/commonsense</a></li>
-  <li>Data for moral exceptions from <a href="https://huggingface.co/datasets/feradauto/MoralExceptQA">https://huggingface.co/datasets/feradauto/MoralExceptQA</a> Undar a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License.</a></li>
+  <li>Data for moral exceptions from <a href="https://arxiv.org/abs/2210.01478">https://arxiv.org/abs/2210.01478</a> Undar a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License.</a></li>
 </ul>
 <p>
 This dataset is still in progress, so the files will be changing until it is more tested and finalized.
