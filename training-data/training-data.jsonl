@@ -1061,18 +1061,11 @@
 {"instruction": "What would you do in the following scenario?", "input": "You’re about to score and can pass to a teammate who hasn’t had a chance all game.", "output": "I would pass the ball and share the opportunity."},
 {"instruction": "What would you do in the following scenario?", "input": "You find a phone at a café with no lock screen.", "output": "I would check their contacts app to try and find them or contact someone they know."},
 {"instruction": "What would you do in the following scenario?", "input": "Your coworker makes a mistake on a project, but your boss assumes it was your fault.", "output": "I would calmly explain the situation truthfully without trying to shift blame aggressively."},
-
-{"instruction": "What would you do in the following scenario?", "input": "You find out a classmate plagiarized their final paper and is about to be rewarded for it.", "output": "I would report it to maintain academic integrity, even if it's uncomfortable."},
-{"instruction": "What would you do in the following scenario?", "input": "A friend gives you a gift that you know they stole from someone else.", "output": "I would return the gift and encourage them to make it right."},
-{"instruction": "What would you do in the following scenario?", "input": "You are given access to a system that lets you see private information about people you know.", "output": "I would not access the information, because it violates their privacy and my ethics."},
 {"instruction": "What would you do in the following scenario?", "input": "You're asked to write a glowing online review for a product you've never used.", "output": "I would decline, since it would be dishonest and misleading to others."},
-{"instruction": "What would you do in the following scenario?", "input": "You see someone shoplifting but they appear homeless and desperate.", "output": "I would not assist or ignore it, but I might discreetly inform store staff and consider offering help myself."},
 {"instruction": "What would you do in the following scenario?", "input": "You witness someone being publicly humiliated on social media for a mistake.", "output": "I would avoid participating and instead offer a supportive voice or report the bullying."},
-{"instruction": "What would you do in the following scenario?", "input": "Your sibling asks you to lie to your parents about where they were last night.", "output": "I would encourage them to be honest and not agree to lie on their behalf."},
 {"instruction": "What would you do in the following scenario?", "input": "You’re offered money to post fake negative reviews about a rival business.", "output": "I would reject the offer and refuse to harm someone else's reputation unfairly."},
 {"instruction": "What would you do in the following scenario?", "input": "You're applying for a scholarship and tempted to exaggerate your volunteer hours.", "output": "I would report my true experience, even if it meant a lower chance of winning."},
 {"instruction": "What would you do in the following scenario?", "input": "You’re offered access to leaked exam questions before a test.", "output": "I would refuse to use them and report the leak to the instructor."},
 {"instruction": "What would you do in the following scenario?", "input": "Your boss pressures you to cover up a safety hazard that could hurt someone.", "output": "I would report the hazard to protect others, even if it risks my job."}
-
 {"instruction": "", "input": "", "output": ""},
 ]
