@@ -29,6 +29,9 @@
   Because of the amount of data needed for a quality fine tune of an LLM, It would have taken me way too long to create every example by hand. To speed it uo, I created examples and the had GPT-4o create more based on my data. I then checked all of the date for any incorrect answers, to make sure I did not have any bad data. This still took a while though, so the current dataset is not massive, but I will likely suppliment it with additional data, whenever I find something that the model struggles with.
 </p>
 <p>
+  Fine tuning is a bit of a challenge, since I am using an AMD GPU, which is not as supported for this use, especially on Windows. ROCm, the platform for running AI software on AMD hardware, is designed for Linux, so I have not been able to find any software for training AI models on Windows with my hardware. To get around this, I am going to try WSL for running any Linux software.
+</p>
+<p>
   After fine tuning the model, my next goal is to set up the LLM to automatically call on tools to get up-to-date information for certain questions, such as getting the current weather. I expect this to be a bit of a challenge, because my current base model (Llama 3.2 vision 11b) is not supported for tool calling by Ollama. Many examples of tool calling also need the tool calling information in the prompt, which I want to avoid because I am planning on getting this to work as a voice assistant, which needs to function with less formatted inputs. I will be doing some more research on this, but if I am unable to get this project to work with Ollama, I am likly going to use the Llama API, since it should support tools with my model. I am currently on the waitlist for access, so that will hopefully go through soon so I can continue testing.
 </p>
 <p>
