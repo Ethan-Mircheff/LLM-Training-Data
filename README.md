@@ -1,11 +1,11 @@
 # Project-Athena
-<br>
 <p>
   After recently watching some of the Iron Man movies, and realizing that I can run a LLM locally on my computer, I thought it would be a really cool project to try and make something similar to JARVIS, to use as a fully customized computerized assistant. I plan on eventually making a system that allows me to connect to and use the assistant from anywhere in the world, but before that, I realized that there were some issues I wanted to fix with the model I decide on using.
 </p>
 <p>
   After testing several open and closed source LLMs, I noticed that there are a lot of questions that they consistantly get wrong, often with spelling or simple math, so I decided to try to fine tune a model so it would be able to answer more questons correctly.
 </p>
+<h2>Fine-Tuning</h2>
 <p>
   I chose to use the alpaca format for my dataset, since it is easy to use and accepted by most programs for training llms. For example:
 </p>
@@ -31,9 +31,11 @@
 <p>
   Fine tuning is a bit of a challenge, since I am using an AMD GPU, which is not as widely supported for this use, especially on Windows. ROCm, the platform for running AI software on AMD hardware, is designed for Linux, so I have not been able to find any software for training AI models directly on Windows with my hardware. To get around this, I am going to use WSL for running any Linux software. I am using <a href="https://github.com/axolotl-ai-cloud/axolotl">Axolotl</a> to fine tune my model, as it supports a lot of different models, and it also has very good documentation.
 </p>
+<h2>Upcoming</h2>
 <p>
   After fine tuning the model, my next goal is to set up the LLM to automatically call on tools to get up-to-date information for certain questions, such as getting the current weather. I expect this to be a bit of a challenge, because my current base model (Llama 3.2 vision 11b) is not supported for tool calling by Ollama, the program I use to run the LLM. Many examples of tool calling also need the tool calling information added into the prompt, which I want to avoid because I am planning on getting this to work as a voice assistant, which needs to function with less formatted inputs. I will be doing some more research on this, but if I am unable to get this project to work with Ollama, I am likly going to use the Llama API, since it should support tools with my model. I am currently on the waitlist for access, so that will hopefully go through soon so I can continue testing.
 </p>
+<h2>Goals</h2>
 <p>
   I have not yet figured out how exactly I will connect to my computer to remotely access the ai; this will definitely be the most difficult part of the project, and I still have to decide on the exact features I would like, but there are some I know I will work on implementing.
 </p>
@@ -43,6 +45,7 @@
   <li>The ability to access the assistant from a seperate network, and eventually through a cellular connection</li>
   <li>The ability to have a camera that can send images back to the host computer, allowing the LLM to anylize them</li>
 </ol>
+<h2>Resources</h2>
 <p>
   Though most of the training data is my own, I used a couple external resources as inspiration for examples to help increase the diversity of training data.
 </p>
