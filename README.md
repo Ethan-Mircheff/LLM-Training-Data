@@ -58,3 +58,4 @@
 <p>
   This project is still in progress, so the files will be changing until it is more tested and finalized.
 </p>
+Project Athena © 2025 by Ethan Mircheff is licensed under CC BY-NC 4.0
